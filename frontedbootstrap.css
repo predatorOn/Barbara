@@ -1,0 +1,22 @@
+.navbar{
+    background-color: maroon;
+
+}
+
+.navbar-nav {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar-expand.navbar-collapse{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+}
+body.bg-light{
+    background-color: #000 !important;
+}
+html{
+    background-color: #000;
+}
